@@ -11,7 +11,7 @@ body {
 .container {
   margin: 0 auto;
   width: 420px;
-    background-color: #333;
+  background-color: #333;
 }
 
 nav {
@@ -21,7 +21,6 @@ nav {
   width: 420px;
   background-color: #000;
 }
-
 
 .restaurant-list {
   padding-top: 50px;
@@ -33,13 +32,12 @@ nav {
   padding: 18px;
 }
 
-.location .content  {
-width: 80%;
-  border: 1px solid red
+.location .content {
+  width: 80%;
 }
 
 .location .content h1 {
- font-weight: bold;
+  font-weight: bold;
   font-size: 1.85em;
   padding-bottom: 5px;
 }
@@ -53,15 +51,12 @@ width: 80%;
 }
 
 /*text and arrow div in a row*/
-.content, .arrow{
+.content, .arrow {
   display: inline-block;
-  border: 1px solid #aaa8aa;
-
 }
 
 /*arrow alignment*/
 .arrow {
- float: right;
- padding-top: 9px;
+  float: right;
+  padding-top: 9px;
 }
-
